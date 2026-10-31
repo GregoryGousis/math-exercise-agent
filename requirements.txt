@@ -1,0 +1,6 @@
+requests
+pypdf
+beautifulsoup4
+anthropic
+reportlab
+matplotlib

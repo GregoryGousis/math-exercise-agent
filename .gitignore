@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+venv/
+
+# Secrets - never commit
+.env
+*.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# PyCharm
+.idea/
+
+# Generated output (keep only the sample in examples/)
+*.pdf
+!examples/*.pdf
+
+# Windows
+Thumbs.db
